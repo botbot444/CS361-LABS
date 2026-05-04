@@ -74,9 +74,6 @@ article {
   object-fit: cover;
   border: 3px solid #3b82f6;
 }
-.about-txt {
-  margin-bottom: 1rem;
-}
 ol,
 ul {
   margin-left: 1rem;
@@ -129,7 +126,6 @@ aside {
         padding: 0.5rem;
         border: 1px solid #989898;
         border-radius: 0.5rem; */
-
   display: flex;
   align-items: center;
   gap: 0.5rem;
@@ -152,6 +148,9 @@ aside {
 }
 
 /* TEXT STYLING */
+.about-txt {
+  margin-bottom: 1rem;
+}
 h1 {
   font-size: 1.8rem;
 }
